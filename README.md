@@ -13,4 +13,4 @@ the smoker picks up the ingredients, makes a cigarette, smokes for a while, and 
 for his next ingredients. The problem is to come up with an algorithm for the smokers using semaphores as
 synchronization primitives.
 
-To view the full problem description see the [Problem Description PDF](https://github.com/nfgallimore/CigaretteSmokersProblem/master/ProblemDescription.pdf)
+To view the full problem description see the [Problem Description PDF](https://github.com/nfgallimore/CigaretteSmokersProblem/blob/master/ProblemDescription.pdf)
